@@ -7,9 +7,9 @@ Initial Direction: N
 
 There are 9 test cases shown in this program in the file test_translator.py
 ----------------------------------------------------------------------
-Test Case 1:
-Just checking the function default when we pass translator(0, 0, 0, "N")
-the values are correctly initialized as x = 0, y = 0, z = 0, direction = "N"
+Test Case 1:\
+Just checking the function default when we pass translator(0, 0, 0, "N")\
+the values are correctly initialized as x = 0, y = 0, z = 0, direction = "N"\
 ----------------------------------------------------------------------
 Test Case 2:
 if f(forward):
